@@ -2,7 +2,7 @@
 let slideIndex = 0;
 
 function showSlide(index) {
-const containerFotos = document,querySelector(".carrosel-fotos");
+const containerFotos = document.querySelector(".carrosel-fotos");
 const slides = document.querySelectorAll(".carrosel-fotos img");
 
 if (slides.length === 0) return;
@@ -16,10 +16,10 @@ if (index >= slides.length){
 }
 
 const deslocamento = -slideIndex * 100;
-containerFotos.style.transform = 'translateX(${deslocamento}%)';
+containerFotos.style.transform = `translateX(${deslocamento}%)`;
 }
 
-Function moveSlide(direction){
+function moveSlide(direction){
   showSlide(slideIndex + direction);
 }
 
