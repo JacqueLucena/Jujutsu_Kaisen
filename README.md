@@ -1,42 +1,21 @@
-# 🎋  Projeto Jujutsu 🎋
+# 🎋 Projeto Jujutsu 🎋
 
 <p align="center">
-  <img src="https://t.ctcdn.com.br/lK2IJ2b_5MYl9K55ULN3C1uxmSo=/1024x576/smart/i975461.jpeg" width="100%" alt="Banner Jujutsu Kaisen">
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Cursed__Energy-Grade__1-blue?style=for-the-badge&logo=appveyor" alt="Badge Energia">
-  <img src="https://img.shields.io/badge/Status-Em__Desenvolvimento-red?style=for-the-badge" alt="Badge Status">
+  <img src="https://t.ctcdn.com.br/lK2IJ2b_5MYl9K55ULN3C1uxmSo=/1024x576/smart/i975461.jpeg" width="100%" alt="Banner Jujutsu Kaisen - Feiticeiros">
 </p>
 
 ## 📖 Introdução
 
-[Escreva aqui o seu parágrafo cativante. Explique o que é o projeto (API, site, bot), que problema ele resolve e misture com os termos do anime. Ex: "Este bot do Discord exorciza o tédio permitindo que os membros do servidor coletem dedos do Sukuna e travem batalhas de Expansão de Domínio."]
+Bem-vindo ao **Projeto Jujutsu**!
 
-## ⚡ Técnicas Inatas (Funcionalidades)
+Este repositório é o meu "campo de treinamento" pessoal no desenvolvimento web. Assim como os alunos da Escola de Jujutsu de Tóquio, eu estou no início da minha jornada para dominar minhas "técnicas inatas".
 
-Aqui estão as habilidades atuais e futuras deste projeto:
+O objetivo deste projeto não é criar algo complexo ou profissional agora, mas sim **consolidar meu conhecimento nos fundamentos** puros do front-end:
 
-- [x] [Funcionalidade 1 que já está pronta. Ex: Catálogo de Personagens.]
-- [x] [Funcionalidade 2 que já está pronta. Ex: Simulação de Combate Básico.]
-- [ ] [Funcionalidade 3 que você vai fazer. Ex: Expansão de Domínio Customizada.]
-- [ ] [Funcionalidade 4 que você vai fazer. Ex: Sistema de Clãs.]
+1.  **HTML:** Para estruturar o conteúdo do meu "território".
+2.  **CSS:** Para dar estilo, cores e forma ao projeto.
+3.  **JavaScript:** Para adicionar interatividade e lógica básica.
 
-## 📜 Ritual de Invocação (Instalação e Uso)
-
-Para conjurar este projeto no seu território local, siga os passos:
-
-**Pré-requisitos:** Ter o [Nome da Tecnologia, ex: Node.js] instalado.
-
-```bash
-# 1. Clone o repositório amaldiçoado
-git clone [https://github.com/SEU_USUARIO/](https://github.com/SEU_USUARIO/)[NOME_DO_REPOSITORIO].git
-
-# 2. Entre no território (pasta do projeto)
-cd [NOME_DO_REPOSITORIO]
-
-# 3. Conjure as dependências (instale o que o projeto precisa)
-[Comando de instalação, ex: npm install ou pip install -r requirements.txt]
-
-# 4. Inicie o Véu (Rode o projeto)
-[Comando para rodar, ex: npm start ou python main.py]
+---
+🛑 **Status do Projeto: Em Treinamento (Incompleto)**
+Este projeto é um laboratório de estudos. Ele é simples, foi criado por um iniciante e **não está finalizado**. Novas funcionalidades serão adicionadas à medida que eu aprender novas técnicas.
