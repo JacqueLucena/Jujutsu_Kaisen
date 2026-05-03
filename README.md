@@ -1,7 +1,7 @@
 # 🎋  Projeto Jujutsu 🎋
 
 <p align="center">
-  <img src="https://canaltech.com.br/entretenimento/quem-sao-os-personagens-de-jujutsu-kaisen/" width="100%" alt="Banner Jujutsu Kaisen">
+  <img src="https://t.ctcdn.com.br/lK2IJ2b_5MYl9K55ULN3C1uxmSo=/1024x576/smart/i975461.jpeg" width="100%" alt="Banner Jujutsu Kaisen">
 </p>
 
 <p align="center">
